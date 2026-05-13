@@ -18,6 +18,21 @@ NEXA is an intelligent machine translation framework that dynamically selects th
 - NLLB-200 (LoRA fine-tuned)
 
 ---
+# 📂 Datasets Used
+
+## 1️⃣ OPUS Punjabi-English Dataset
+Parallel corpus used for multilingual machine translation training.
+
+🔗 https://opus.nlpl.eu/
+
+---
+
+## 2️⃣ AI4Bharat Indic Translation Dataset
+Large-scale Indian language translation dataset used for fine-tuning and evaluation.
+
+🔗 https://ai4bharat.iitm.ac.in/
+
+---
 
 # ⚙️ How It Works
 
