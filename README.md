@@ -84,3 +84,11 @@ streamlit run app.py
 <p align="center">
   <img src="score_distribution.png" width="700">
 </p>
+
+# 📷 Application Demo
+
+## 🔹 Translation Interface
+
+<p align="center">
+  <img src="demo.jpeg" width="800">
+</p>
