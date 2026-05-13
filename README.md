@@ -20,10 +20,10 @@ NEXA is an intelligent machine translation framework that dynamically selects th
 ---
 # 📂 Datasets Used
 
-## 1️⃣ OPUS Dataset
+## 1️⃣ OPUS-100 Dataset
 Parallel corpus dataset used for multilingual machine translation training.
 
-🔗 https://opus.nlpl.eu/
+🔗 https://opus.nlpl.eu/opus-100.php
 
 ---
 
