@@ -28,9 +28,9 @@ Parallel corpus dataset used for multilingual machine translation training.
 ---
 
 ## 2️⃣ Samanantar Dataset
-Large-scale Indian language parallel corpus dataset for translation tasks.
+Large-scale Indian language parallel corpus dataset developed by AI4Bharat for machine translation tasks.
 
-🔗 https://ai4bharat.iitm.ac.in/samanantar
+🔗 https://github.com/AI4Bharat/indicnlp.ai4bharat.org/blob/master/content/pages/samanantar.md
 
 ---
 
