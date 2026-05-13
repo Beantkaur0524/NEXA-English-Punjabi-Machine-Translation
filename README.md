@@ -59,3 +59,28 @@ Large-scale Indian language parallel corpus dataset developed by AI4Bharat for m
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+```
+# 📊 Results & Visualizations
+
+## 🔹 Model Comparison
+
+<p align="center">
+  <img src="model_comparison.png" width="700">
+</p>
+
+---
+
+## 🔹 Model Performance
+
+<p align="center">
+  <img src="model_performance.png" width="700">
+</p>
+
+---
+
+## 🔹 Score Distribution
+
+<p align="center">
+  <img src="score_distribution.png" width="700">
+</p>
